@@ -1,0 +1,20 @@
+{
+  "name": "free-code-camp-tribute",
+  "version": "1.0.0",
+  "description": "Free code camp https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/",
+  "main": "index.html",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckomop0x/fcc-tribute-page.git"
+  },
+  "author": "Pavel Ckomop0x Klochkov <paul.klochkov@gmail.com> (https://ckomop0x.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ckomop0x/fcc-tribute-page/issues"
+  },
+  "homepage": "https://github.com/ckomop0x/fcc-tribute-page#readme"
+}
