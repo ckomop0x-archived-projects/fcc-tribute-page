@@ -83,3 +83,4 @@ typings/
 .fusebox/
 .dynamodb/
 /.idea
+dist
