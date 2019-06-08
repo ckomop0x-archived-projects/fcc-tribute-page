@@ -1,4 +1,4 @@
-# fcc-tribute-page
+# FreeCodeCamp - tribute page project
 
 This is one of FreeCodeCamp portfolio projects. This is a tribute page and my theme is Igor Sikorsky Kyiv Polytechnic Institute. It's my first graduation and I'm glad that I was study there.
 
