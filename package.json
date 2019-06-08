@@ -1,13 +1,14 @@
 {
   "name": "free-code-camp-tribute",
   "version": "1.0.0",
-  "description": "Free code camp https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/",
+  "description": "Free code camp build-a-tribute-page/",
   "main": "index.html",
   "private": true,
   "scripts": {
+    "prebuild": "rm -rf dist",
+    "build": "parcel build index.html --public-url https://ckomop0x.github.io/fcc-tribute-page/ && cp -r icons dist/icons",
     "deploy": "gh-pages -d dist",
-    "dev": "parcel index.html",
-    "build": "parcel build index.html"
+    "dev": "parcel index.html"
   },
   "repository": {
     "type": "git",
